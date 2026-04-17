@@ -3,4 +3,4 @@ project(PAA C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(PAA mergeSort/main.c)
+add_executable(PAA mergeSort/main.c insertionSort/main.c)

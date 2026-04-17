@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/isabela/PAA/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/PAA.dir/mergeSort/main.c.o -c /home/isabela/PAA/mergeSort/main.c",
+  "file": "/home/isabela/PAA/mergeSort/main.c",
+  "output": "/home/isabela/PAA/cmake-build-debug/CMakeFiles/PAA.dir/mergeSort/main.c.o"
+},
+{
+  "directory": "/home/isabela/PAA/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/PAA.dir/insertionSort/main.c.o -c /home/isabela/PAA/insertionSort/main.c",
+  "file": "/home/isabela/PAA/insertionSort/main.c",
+  "output": "/home/isabela/PAA/cmake-build-debug/CMakeFiles/PAA.dir/insertionSort/main.c.o"
+}
+]

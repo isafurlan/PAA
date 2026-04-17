@@ -1,3 +1,5 @@
-//
-// Created by isabela on 4/17/26.
-//
+#include "stdio.h"
+
+void main() {
+    // alg
+}
